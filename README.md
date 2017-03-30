@@ -1,0 +1,2 @@
+# ShallowAndDeepMNIST
+DescriptionWithoutSpaces
